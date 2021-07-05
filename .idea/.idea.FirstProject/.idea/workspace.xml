@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fcfc205f-faa4-4c29-b636-22ecd3270eb0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/NavigationSystem/Public/NavigationData.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Core/Public/Math/Vector.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Animation/AnimInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Classes/AIController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/AIModule/Classes/AITypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/SkeletalMeshSocket.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/Engine/EngineTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Enemy.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Weapon.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Character.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Controller.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Weapon.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FirstProject.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Collider.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Critter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Private/GameplayStatics.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/GameplayActors/Floater.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/GameplayActors/Floater.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Pickup.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainCharacter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Explosive.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FirstProjectGameModeBase.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/ColliderMovementComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FloatingPlatform.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Main.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FirstProjectGameModeBase.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/AI/Navigation/NavigationTypes.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainCharacter.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/SpringArmComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/SpawnVolume.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://D:/Epic Games/UE_4.25/Engine/Source/Runtime/Engine/Classes/GameFramework/Pawn.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Item.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FloorSwitch.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MyObject.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Item.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/ColliderMovementComponent.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FloorSwitch.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Critter.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Collider.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MyObject.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject.Target.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/SpawnVolume.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/Pickup.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/FloatingPlatform.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProject/MainPlayerController.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/FirstProjectEditor.Target.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Source/FirstProject/MyObject.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/MyObject.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/GameplayActors/Floater.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/GameplayActors/Floater.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/ColliderMovementComponent.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/ColliderMovementComponent.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Critter.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Critter.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Collider.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Collider.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/FloorSwitch.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/FloorSwitch.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/SpawnVolume.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/SpawnVolume.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/FloatingPlatform.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/FloatingPlatform.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Item.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Pickup.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Explosive.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Item.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Pickup.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/FirstProject.Build.cs" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Main.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Main.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Weapon.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Weapon.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1tSTkffbenYEgW64RjbixRzHUnm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34991843" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30016312" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="C++ Project.FirstProject">
+    <configuration name="FirstProject" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
+      <configuration_10>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_10>
+      <configuration_11>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_11>
+      <configuration_12>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_12>
+      <configuration_13>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_13>
+      <configuration_14>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_14>
+      <configuration_15>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_15>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/FirstProject.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+    <configuration name="UE4" type="CppProject" factoryName="C++ Project">
+      <configuration_1>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_1>
+      <configuration_2>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_2>
+      <configuration_3>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_3>
+      <configuration_4>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_4>
+      <configuration_5>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_5>
+      <configuration_6>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_6>
+      <configuration_7>
+        <option name="CONFIGURATION" value="Shipping" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_7>
+      <configuration_8>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_8>
+      <configuration_9>
+        <option name="CONFIGURATION" value="DebugGame Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_9>
+      <configuration_10>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_10>
+      <configuration_11>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="IOS" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_11>
+      <configuration_12>
+        <option name="CONFIGURATION" value="DebugGame" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_12>
+      <configuration_13>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win32" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_13>
+      <configuration_14>
+        <option name="CONFIGURATION" value="Development Editor" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_14>
+      <configuration_15>
+        <option name="CONFIGURATION" value="Development" />
+        <option name="PLATFORM" value="Win64" />
+        <option name="PROJECT_FILE_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+        <option name="EXE_PATH" value="$(LocalDebuggerCommand)" />
+        <option name="PROGRAM_PARAMETERS" value="$(LocalDebuggerCommandArguments)" />
+        <option name="WORKING_DIRECTORY" value="$(LocalDebuggerWorkingDirectory)" />
+        <option name="PASS_PARENT_ENVS" value="1" />
+        <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      </configuration_15>
+      <option name="DEFAULT_PROJECT_PATH" value="$PROJECT_DIR$/Intermediate/ProjectFiles/UE4.vcxproj" />
+      <method v="2">
+        <option name="Build" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fcfc205f-faa4-4c29-b636-22ecd3270eb0" name="Default Changelist" comment="" />
+      <created>1622761638616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622761638616</updated>
+      <workItem from="1622761671540" duration="7135000" />
+      <workItem from="1622773974592" duration="6132000" />
+      <workItem from="1622856350493" duration="975000" />
+      <workItem from="1622940397840" duration="8648000" />
+      <workItem from="1622951403137" duration="9524000" />
+      <workItem from="1623017134560" duration="6990000" />
+      <workItem from="1623026009482" duration="1681000" />
+      <workItem from="1623028460875" duration="3326000" />
+      <workItem from="1623114903964" duration="1266000" />
+      <workItem from="1623195207645" duration="5695000" />
+      <workItem from="1623382881710" duration="4519000" />
+      <workItem from="1623466688439" duration="1910000" />
+      <workItem from="1623540902973" duration="4184000" />
+      <workItem from="1623548814910" duration="13000" />
+      <workItem from="1623549031022" duration="8737000" />
+      <workItem from="1623621578800" duration="12654000" />
+      <workItem from="1623643522365" duration="1354000" />
+      <workItem from="1623712785208" duration="2486000" />
+      <workItem from="1623728671129" duration="2247000" />
+      <workItem from="1623731262706" duration="1108000" />
+      <workItem from="1623732784381" duration="1179000" />
+      <workItem from="1623811973204" duration="2927000" />
+      <workItem from="1623899225516" duration="3560000" />
+      <workItem from="1624067268889" duration="1018000" />
+      <workItem from="1624070567281" duration="245000" />
+      <workItem from="1624071124088" duration="2853000" />
+      <workItem from="1624132815546" duration="3843000" />
+      <workItem from="1624155384965" duration="4216000" />
+      <workItem from="1624223249732" duration="4085000" />
+      <workItem from="1624235324464" duration="1939000" />
+      <workItem from="1624238370234" duration="3126000" />
+      <workItem from="1624241700524" duration="1324000" />
+      <workItem from="1624418047106" duration="1094000" />
+      <workItem from="1624419350051" duration="104000" />
+      <workItem from="1624419469765" duration="29000" />
+      <workItem from="1624419635096" duration="818000" />
+      <workItem from="1624420908580" duration="1319000" />
+      <workItem from="1624495583751" duration="7678000" />
+      <workItem from="1624506463962" duration="436000" />
+      <workItem from="1624576893026" duration="2887000" />
+      <workItem from="1624580302036" duration="595000" />
+      <workItem from="1624758746950" duration="2891000" />
+      <workItem from="1624765191842" duration="624000" />
+      <workItem from="1624819947562" duration="2660000" />
+      <workItem from="1624824889797" duration="2202000" />
+      <workItem from="1624830753233" duration="3336000" />
+      <workItem from="1624835475893" duration="24000" />
+      <workItem from="1624835754005" duration="1317000" />
+      <workItem from="1624837483379" duration="3939000" />
+      <workItem from="1624843297679" duration="1644000" />
+      <workItem from="1624936244018" duration="870000" />
+      <workItem from="1625092256811" duration="2352000" />
+      <workItem from="1625096984920" duration="723000" />
+      <workItem from="1625100288444" duration="336000" />
+      <workItem from="1625101060438" duration="5074000" />
+      <workItem from="1625108980896" duration="561000" />
+      <workItem from="1625196127462" duration="302000" />
+      <workItem from="1625196646561" duration="599000" />
+      <workItem from="1625357728329" duration="623000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="350" key="#Notifications" timestamp="1622942728959">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="414" y="350" key="#Notifications/0.0.2560.1040@0.0.2560.1040" timestamp="1622942728959" />
+    <state x="100" y="103" width="1214" height="839" key="DiffContextDialog" timestamp="1623468004107">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="100" y="103" width="1214" height="839" key="DiffContextDialog/0.0.2560.1040@0.0.2560.1040" timestamp="1623468004107" />
+    <state width="1257" height="213" key="GridCell.Tab.0.bottom" timestamp="1625106714944">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.0.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714944" />
+    <state width="1257" height="213" key="GridCell.Tab.0.center" timestamp="1625106714944">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.0.center/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714944" />
+    <state width="1257" height="213" key="GridCell.Tab.0.left" timestamp="1625106714944">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.0.left/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714944" />
+    <state width="1257" height="213" key="GridCell.Tab.0.right" timestamp="1625106714944">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.0.right/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714944" />
+    <state width="1257" height="213" key="GridCell.Tab.1.bottom" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.1.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.1.center" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.1.center/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.1.left" timestamp="1625106714944">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.1.left/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714944" />
+    <state width="1257" height="213" key="GridCell.Tab.1.right" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.1.right/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.2.bottom" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.2.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.2.center" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.2.center/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.2.left" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.2.left/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.2.right" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.2.right/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.3.bottom" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.3.bottom/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.3.center" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.3.center/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.3.left" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.3.left/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state width="1257" height="213" key="GridCell.Tab.3.right" timestamp="1625106714945">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="1257" height="213" key="GridCell.Tab.3.right/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
+    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1624070173792">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1624070173792" />
+  </component>
+</project>
