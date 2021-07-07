@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fcfc205f-faa4-4c29-b636-22ecd3270eb0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Blueprints/MainPlayerController_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Blueprints/MainPlayerController_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/Animations/CombatMontage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Animations/CombatMontage.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/Animations/MainAnim_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Animations/MainAnim_BP.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/Character/Mesh/Taunt_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Mesh/Taunt_Skeleton.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/Maps/SunTemple.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/SunTemple.umap" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Enemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Enemy.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/FirstProject/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Source/FirstProject/Main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Main.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.h" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -111,12 +111,12 @@
         <option value="$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.cpp" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Weapon.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Weapon.cpp" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.h" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Main.cpp" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Main.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Main.h" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Main.cpp" />
       </list>
     </option>
   </component>
@@ -515,7 +515,9 @@
       <workItem from="1625196646561" duration="599000" />
       <workItem from="1625357728329" duration="623000" />
       <workItem from="1625533296511" duration="5607000" />
-      <workItem from="1625542807508" duration="344000" />
+      <workItem from="1625542807508" duration="644000" />
+      <workItem from="1625629023082" duration="1182000" />
+      <workItem from="1625632126658" duration="1701000" />
     </task>
     <servers />
   </component>
