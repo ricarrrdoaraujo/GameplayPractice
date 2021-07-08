@@ -3,15 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fcfc205f-faa4-4c29-b636-22ecd3270eb0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.FirstProject/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/Animations/CombatMontage.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Animations/CombatMontage.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/Animations/MainAnim_BP.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Animations/MainAnim_BP.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Character/Mesh/Taunt_Skeleton.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Character/Mesh/Taunt_Skeleton.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Maps/SunTemple.umap" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Maps/SunTemple.umap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/StarterContent/Architecture/Floor_400x400.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Enemy.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Enemy.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Main.h" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Main.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Source/FirstProject/Item.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Source/FirstProject/Item.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,9 +96,7 @@
         <option value="$PROJECT_DIR$/Source/FirstProject/Explosive.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/MainAnimInstance.cpp" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Item.cpp" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Pickup.cpp" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" />
         <option value="$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/FirstProject.Build.cs" />
         <option value="$PROJECT_DIR$/Source/FirstProject/AnemyAnimInstance.cpp" />
@@ -115,8 +106,10 @@
         <option value="$PROJECT_DIR$/Source/FirstProject/MainPlayerController.cpp" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Main.h" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.h" />
-        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" />
         <option value="$PROJECT_DIR$/Source/FirstProject/Main.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Enemy.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Item.cpp" />
+        <option value="$PROJECT_DIR$/Source/FirstProject/Explosive.cpp" />
       </list>
     </option>
   </component>
@@ -517,7 +510,8 @@
       <workItem from="1625533296511" duration="5607000" />
       <workItem from="1625542807508" duration="644000" />
       <workItem from="1625629023082" duration="1182000" />
-      <workItem from="1625632126658" duration="1701000" />
+      <workItem from="1625632126658" duration="2108000" />
+      <workItem from="1625704304708" duration="485000" />
     </task>
     <servers />
   </component>
@@ -602,10 +596,10 @@
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
     <state width="1257" height="213" key="GridCell.Tab.3.right/0.0.2560.1040@0.0.2560.1040" timestamp="1625106714945" />
-    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1624070173792">
+    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup" timestamp="1625704679098">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
-    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1624070173792" />
+    <state x="352" y="234" width="672" height="678" key="search.everywhere.popup/0.0.2560.1040@0.0.2560.1040" timestamp="1625704679098" />
     <state x="404" y="438" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1625541449991">
       <screen x="0" y="0" width="2560" height="1040" />
     </state>
