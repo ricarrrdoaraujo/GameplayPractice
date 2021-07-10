@@ -205,4 +205,6 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	void DeathEnd();
+
+	void SwitchLevel(FName LevelName);
 };

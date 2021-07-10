@@ -53,6 +53,8 @@
           </e>
           <e p="Item.cpp" t="Include" />
           <e p="Item.h" t="Include" />
+          <e p="LevelTransitionVolum.cpp" t="Include" />
+          <e p="LevelTransitionVolum.h" t="Include" />
           <e p="Main.cpp" t="Include" />
           <e p="Main.h" t="Include" />
           <e p="MainAnimInstance.cpp" t="Include" />
