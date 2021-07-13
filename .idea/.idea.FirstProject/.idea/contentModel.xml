@@ -43,6 +43,8 @@
           <e p="FirstProject.h" t="Include" />
           <e p="FirstProjectGameModeBase.cpp" t="Include" />
           <e p="FirstProjectGameModeBase.h" t="Include" />
+          <e p="FirstSaveGame.cpp" t="Include" />
+          <e p="FirstSaveGame.h" t="Include" />
           <e p="FloatingPlatform.cpp" t="Include" />
           <e p="FloatingPlatform.h" t="Include" />
           <e p="FloorSwitch.cpp" t="Include" />
